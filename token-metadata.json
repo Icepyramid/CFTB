@@ -1,0 +1,17 @@
+{
+  "name": "Cold Fire Tony Boss",
+  "symbol": "CFTB",
+  "description": "A token for my friends",
+  "seller_fee_basis_points": 0,
+  "image": "https://raw.githubusercontent.com/Icepyramid/CFTB/refs/heads/main/cold%20fire%20as%20logo.png",
+  "attributes": [],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/Icepyramid/CFTB/refs/heads/main/cold%20fire%20as%20logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image"
+  }
+}
